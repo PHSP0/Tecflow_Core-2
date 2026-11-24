@@ -3,17 +3,12 @@
 ETAPAS 11-14
 
 **A Fazer**
-ETAPAS 8-10
+ETAPAS 9-10
 
 **Em Andamento**
-ETAPA 7
+ETAPA 8
 
 **Em Validação IA**
 
 **Concluído**
-ETAPA 1
-ETAPA 2
-ETAPA 3
-ETAPA 4
-ETAPA 5
-ETAPA 6
+ETAPAS 1-7
